@@ -7,4 +7,4 @@ Version: 0.0.1
 Author: Steele Dalby
 */
 
-defined( 'ABSPATH' ) or die;
+defined( 'ABSPATH' ) or die( "Script must be executed within wordpress.\n" );
