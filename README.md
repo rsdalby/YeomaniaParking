@@ -1,2 +1,2 @@
-# yeomania-parking
+# YeomaniaParking
 RV Parking plugin for wordpress
